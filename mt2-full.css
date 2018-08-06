@@ -11,7 +11,7 @@
 .chat-wrapper {
     font-family: 'Lato', sans-serif !important;
 }
-.img[title=Subscriber] { display: none; }
+.chat-line-badge ng-scope { display: none; }
 /** remove strikethroughs on timeouts */
 .chat-line-wrapper.chat-line-deleted .chat-line-text{
     text-decoration: none !important;
